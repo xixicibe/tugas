@@ -1,0 +1,15 @@
+body{
+    background: white;
+}
+.navbar-brand{
+    font-size: 24px;
+    font-weight: 700;
+    color: black;
+}
+.col img{
+    margin-top: 150px;
+}
+.build{
+    margin-top: 250px;
+    font-size: 20px ;
+}
